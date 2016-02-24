@@ -1,0 +1,97 @@
+#two-column-layout {
+	width: 700px;
+	margin: 50px 50px;
+}
+
+.block {
+	background: lightgray;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.top-1 {
+	width: 170px;
+	height: 100px;
+	float: left;
+	margin: 20px 105px 0px 0px;
+}
+
+.top-2 {
+	width: 100px;
+	height: 40px;
+	float: left;
+	clear: right;
+	margin: 50px 5px 0px 0px;
+}
+
+.top-3 {
+	width: 100px;
+	height: 40px;
+	float: left;
+	clear: right;
+	margin: 50px 5px 0px 0px;
+}
+
+.top-4 {
+	width: 100px;
+	height: 40px;
+	float: left;
+	clear: right;
+	margin: 50px 5px 0px 0px;
+}
+
+.top-5 {
+	width: 100px;
+	height: 40px;
+	float: left;
+	clear: right;
+	margin: 50px 0px 0px 0px;
+}
+
+
+.main-1 {
+	width: 700px;
+	height: 250px;
+	float: left;
+	clear: both;
+	margin: 20px 0px 0px 0px;
+}
+
+.main-2 {
+	width: 218px;
+	height: 130px;
+	float: left;
+	clear: right;
+	margin: 20px 20px 0px 0px;
+}
+
+.main-3 {
+	width: 218px;
+	height: 130px;
+	float: left;
+	clear: right;
+	margin: 20px 20px 0px 0px;
+}
+
+.main-4 {
+	width: 218px;
+	height: 130px;
+	float: left;
+	clear: right;
+	margin: 20px 0px 0px 0px;
+}
+
+.bottom {
+	width: 700px;
+	height: 100px;
+	float: left;
+	clear: right;
+	margin: 20px 0px 0px 0px;
+}
+
+h1 {
+	font-family: Arial;
+	font-weight: medium;
+	font-size: 20px;
+	margin: 0px 0px 30px 0px;
+}
